@@ -4,6 +4,7 @@ Hi,
 Wir sind das LinuxGuides OS Team.  
 LinuxGuides OS ist ein Projekt aus der Community des Youtubers [LinuxGuides](https://www.youtube.com/linuxguides) das das Ziel hat  
 ein eigenes an LinuxGuides orientiertes Linux Betriebssystem zu entwickeln.  
+Alle Leute die mitarbeiten wollen sind herzlich willkommen :)  
   
   
   
